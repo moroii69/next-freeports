@@ -1,6 +1,6 @@
 {
   "name": "next-freeports",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Intelligent port manager for Next.js and web developers",
   "main": "index.js",
   "bin": {
