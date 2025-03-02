@@ -1,0 +1,23 @@
+{
+  "name": "next-freeports",
+  "version": "1.0.0",
+  "description": "Intelligent port manager for Next.js and web developers",
+  "main": "index.js",
+  "bin": {
+    "next-freeports": "./bin/cli.js",
+    "kp": "./bin/cli.js",
+    "killport": "./bin/cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["ports", "kill port", "port manager", "nextjs", "react", "web development"],
+  "author": "Mohammed Ufraan",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "commander": "^11.0.0",
+    "inquirer": "^9.1.0"
+  }
+}
